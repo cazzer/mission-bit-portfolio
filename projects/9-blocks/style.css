@@ -3,10 +3,6 @@
   top: calc(50vh - 303px);
 }
 
-.block-row {
-  float: left;
-}
-
 .block {
   width: 200px;
   height: 200px;
